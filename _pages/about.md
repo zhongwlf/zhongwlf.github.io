@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student in the field of robotics, graduated from Dalian University of Technology[NUDT](https://www.dlut.edu.cn/). My main research areas are path planning, image segmentation, and object detection. I am fortunate to be supervised by Associate Professor Li Junxiang[Prof] at the National University of Defense Technology.
+I am a master's student in the field of robotics, graduated from Dalian University of Technology[DLUT](https://www.dlut.edu.cn/). My main research areas are path planning, image segmentation, and object detection. I am fortunate to be supervised by Associate Professor Li Junxiang[Prof.Li](https://junxiang-li.github.io/).
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[Email](243402848@qq.com) / [Github](https://github.com/zhongwlf) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/m0_54718288?type=blog)
